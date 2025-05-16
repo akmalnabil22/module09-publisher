@@ -13,3 +13,8 @@ Running RabbitMQ
 
 ![](./img/console.png)   
 Ketika publisher dijalankan, publisher akan mengirimkan pesan melalui broker. Lalu, pesan tersebut akan diterima subscriber.  
+
+
+
+1[](./img/spike.png)  
+Spike menunjukkan message yang diproses oleh broker. Setiap kali publisher dijalankan, akan ada spike yang menunjukkan publisher sukses mengirimkan pesan.  
