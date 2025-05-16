@@ -1,0 +1,7 @@
+1. How much data your publisher program will send to the message broker in one
+run?  
+    publisher akan mengirim 5 data ke message broker dalam satu waktu  
+
+2. The url of: `amqp://guest:guest@localhost:5672` is the same as in the subscriber
+program, what does it mean?
+    url yang sama menandakan bahwa publisher akan terhubung ke server yang sama dengan subscriber untuk mengirim pesan yang akan diterima subscriber
