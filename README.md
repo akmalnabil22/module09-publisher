@@ -7,4 +7,9 @@ program, what does it mean?
     url yang sama menandakan bahwa publisher akan terhubung ke server yang sama dengan subscriber untuk mengirim pesan yang akan diterima subscriber
 
 Running RabbitMQ  
-![](./img/Screenshot%202025-05-16%20184410.png)
+![](./img/Screenshot%202025-05-16%20184410.png)  
+
+
+
+![](./img/console.png)   
+Ketika publisher dijalankan, publisher akan mengirimkan pesan melalui broker. Lalu, pesan tersebut akan diterima subscriber.  
