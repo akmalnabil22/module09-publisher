@@ -5,3 +5,6 @@ run?
 2. The url of: `amqp://guest:guest@localhost:5672` is the same as in the subscriber
 program, what does it mean?
     url yang sama menandakan bahwa publisher akan terhubung ke server yang sama dengan subscriber untuk mengirim pesan yang akan diterima subscriber
+
+Running RabbitMQ  
+![](./img/Screenshot%202025-05-16%20184410.png)
